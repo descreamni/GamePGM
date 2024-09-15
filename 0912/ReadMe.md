@@ -1,4 +1,4 @@
-The location is for the merged program about the lectures in 9 o 12.
+<span style="color:red">The location is for the merged program about the lectures in 9 o 12.</span>
 =====================================================================
 The following lines are the linguistic-component guideline for the program.
 --------------------------------------------------------------------------
