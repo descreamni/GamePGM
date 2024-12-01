@@ -15,11 +15,11 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 634
-    y: 366
+    y: 51
     width: 1083
     height: 973
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 103
+  controlID: 102
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -400,8 +400,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 625
+    x: 634
+    y: 688
     width: 722
     height: 290
   m_SerializedDataModeController:
@@ -438,14 +438,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\UnityProject\20241114\PJ00
+  m_LastProjectPath: D:\GithubRepository\GamePGM\1114
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 04a80000
-    m_LastClickedID: 43012
-    m_ExpandedIDs: 0000000004a8000068a8000000ca9a3bffffff7f
+    m_SelectedIDs: 10a70000
+    m_LastClickedID: 42768
+    m_ExpandedIDs: 0000000010a7000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -474,7 +474,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000004a80000
+    m_ExpandedIDs: 0000000010a70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -554,7 +554,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1357
-    y: 402
+    y: 87
     width: 359
     height: 891
   m_SerializedDataModeController:
@@ -602,8 +602,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 24
+    x: 634
+    y: 87
     width: 201
     height: 575
   m_SerializedDataModeController:
@@ -620,8 +620,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aca30000
-      m_LastClickedID: 0
+      m_SelectedIDs: cca40000
+      m_LastClickedID: 42188
       m_ExpandedIDs: f6faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -669,7 +669,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 836
-    y: 402
+    y: 87
     width: 519
     height: 575
   m_SerializedDataModeController:
@@ -1142,9 +1142,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -15.63193, y: 6.5119658, z: -1.8877032}
+    m_Target: {x: -0.394451, y: 6.37216, z: -0.98163474}
     speed: 2
-    m_Value: {x: -15.63193, y: 6.5119658, z: -1.8877032}
+    m_Value: {x: -0.394451, y: 6.37216, z: -0.98163474}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1190,13 +1190,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.12559748, y: 0.7401104, z: -0.14407264, w: -0.64479995}
+    m_Target: {x: -0.0015115266, y: 0.99809337, z: -0.025763437, w: -0.05664824}
     speed: 2
-    m_Value: {x: -0.12559748, y: 0.7401104, z: -0.14407262, w: -0.64479995}
+    m_Value: {x: -0.0015115265, y: 0.9980933, z: -0.025763437, w: -0.056648236}
   m_Size:
-    m_Target: 29.951138
+    m_Target: 3.0896833
     speed: 2
-    m_Value: 29.951138
+    m_Value: 3.0896833
   m_Ortho:
     m_Target: 1
     speed: 2
